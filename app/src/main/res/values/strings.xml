@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FocusOn</string>
+    <string name="button">cbibutton</string>
 </resources>

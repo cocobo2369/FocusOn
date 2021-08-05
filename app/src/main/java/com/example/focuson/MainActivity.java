@@ -14,7 +14,7 @@ import android.view.WindowManager;
 
 public class MainActivity extends AppCompatActivity {
     private static final int ACTION_MANAGE_OVERLAY_PERMISSION_REQUEST_CODE = 1;
-    static int LAYOUT_FLAG;
+    int LAYOUT_FLAG;
     Intent always;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
